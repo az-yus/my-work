@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'fontawesome-phone';
+    src: url(../icons/fa-light-300.ttf);
+}
+
+@font-face {
+    font-family: 'fontawesome-caret';
+    src: url(../icons/fa-solid-900.ttf);
+}
+
+@font-face {
+    font-family: 'fontawesome-boot';
+    src: url(../icons/fa-brands-400.ttf);
+}
+
+.boot {
+    font-family: 'fontawesome-boot';
+}
+
+.phone {
+    font-family: 'fontawesome-phone';
+}
+
+.caret {
+    font-family: 'fontawesome-caret';
+}
